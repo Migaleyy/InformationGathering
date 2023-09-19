@@ -79,7 +79,7 @@ whatweb -v -a 3 172.17.52.201
 hhttprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 ```
 ## Output:
-https://user-images.githubusercontent.com/118799103/267843047-55253bc3-6c40-48d5-8a71-b3a47094b564.jpg
+![9](https://github.com/Migaleyy/InformationGathering/assets/118262199/1e26e0cf-7b3b-433c-aabe-c3cdc16ad838)
 
 ## Tracing the Location
 ## TCP Traceroute:
@@ -88,12 +88,14 @@ https://user-images.githubusercontent.com/118799103/267843047-55253bc3-6c40-48d5
 sudo traceroute -T www.saveetha.ac.in
 ```
 ## Output:
-https://user-images.githubusercontent.com/118799103/267843184-e74c96f6-45fc-4b9a-b2a1-6954751f9bbe.jpg
+![10](https://github.com/Migaleyy/InformationGathering/assets/118262199/0daeafc4-acde-4437-8563-a7bfed250c15)
+
 ## ICMP Traceroute:
 ```
 sudo traceroute  www.saveetha.ac.in
 ```
 ## Output:
-https://user-images.githubusercontent.com/118799103/267843240-9a03b174-8b34-464d-ab54-57a6d7a6e48c.jpg
+![12](https://github.com/Migaleyy/InformationGathering/assets/118262199/c2711c2d-0d46-4a51-a03e-f3986d945424)
+
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
